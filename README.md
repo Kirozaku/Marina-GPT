@@ -1,5 +1,5 @@
 # M.A.R.I.N.A GPT AI & C.H.E.Y.Y GPT AI
-![M.A.R.I.N.A](20251201_031248.jpg)
+![M.A.R.I.N.A](img/20251201_031248.jpg)
 
 **M.A.R.I.N.A GPT AI & C.H.E.Y.Y GPT AI** is designed to provide powerful, unrestricted, and seamless AI-driven conversations, pushing the boundaries of what is possible with natural language processing.
 
