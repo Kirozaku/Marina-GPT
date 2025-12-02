@@ -49,11 +49,17 @@ Run the tool M.A.R.I.N.A from the terminal:
 ```bash
 python3 marina.py
 ```
-Run the tool C.H.E.Y.Y from the terminal:
+Run the tool C.H.E.Y.Y from the terminal linux:
 
 ```bash
-python3 cheyy.py
+python3 cheyy-linux.py
 ```
+Run the tool C.H.E.Y.Y from the terminal termux:
+
+```bash
+python3 cheyy-termux.py
+```
+
 
 ## 💻 Screenshot M.A.R.I.N.A
 
