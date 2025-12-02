@@ -44,7 +44,7 @@ pip3 install readline
 
 ## 🚀 Usage
 
-Run the tool M.A.R.I.N.A from the terminal:
+Run the tool M.A.R.I.N.A from the terminal termux & linux:
 
 ```bash
 python3 marina.py
