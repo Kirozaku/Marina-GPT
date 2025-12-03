@@ -74,6 +74,35 @@ python3 cheyy-termux.py
 
 # ⚡ Installation (Automatic)
 
+# ⚙️ Support Universal Terminal — Termux, Linux, Raspberry Pi 🐧🍓
+
+## Install M.A.R.I.N.A
+
+```bash
+wget https://github.com/Kirozaku/Marina-GPT/releases/download/hackingtool/marina
+chmod +x marina
+```
+
+Run:
+
+```bash
+./marina
+```
+
+## Install C.H.E.Y.Y
+
+```bash
+wget https://github.com/Kirozaku/Marina-GPT/releases/download/hackingtool/cheyy
+chmod +x cheyy
+```
+
+Run:
+
+```bash
+./cheyy
+```
+
+
 # 📱 Termux Installation
 
 ## Install M.A.R.I.N.A
